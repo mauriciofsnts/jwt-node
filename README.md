@@ -2,15 +2,15 @@
 
 <p align="center">🚀 Backend construido para estudos do NodeJS. Feito com a instrução desta <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp">série </a> </p>
 
-### Features
+## Features
 
 - [x] Cadastro de usuário
 - [x] Cadastro de projetos
 - [x] Cadastro de tarefas
 
-### Requisitos
+## Requisitos
 
-<p> Para executar o projeto é necessário ter as seguintes ferramentas: <a href="https://nodejs.org/en/"> Node.js </a> <a href="https://www.mongodb.com/3"> MongoDB </a> </p>
+Para executar o projeto você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://nodejs.org/en/"> Node.js </a> <a href="https://www.mongodb.com/3"> MongoDB </a>
 
 ## Scripts Disponíveis
 
