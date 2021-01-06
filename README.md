@@ -7,10 +7,11 @@
 - [x] Cadastro de usuário
 - [x] Cadastro de projetos
 - [x] Cadastro de tarefas
+- [x] Autenticação JWT
 
 ## Requisitos
 
-Para executar o projeto você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://nodejs.org/en/"> Node.js </a> <a href="https://www.mongodb.com/3"> MongoDB </a>
+Para executar o projeto você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://nodejs.org/en/"> Node.js, </a> <a href="https://www.mongodb.com/3"> MongoDB </a>
 
 ## Scripts Disponíveis
 
